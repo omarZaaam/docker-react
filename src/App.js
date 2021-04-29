@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learning React and Travis CI, whats up   !!!
+          Learning React when commited should be tested by Travis CI, whats up   !!!
         </a>
       </header>
     </div>
